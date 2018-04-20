@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d945d417-2a6f-4b68-8bd4-eb260467a699",
+    "data": [
+      {
+        "text": "How is your day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efa004d9-e90a-4d04-8d79-65addd36111f",
+    "data": [
+      {
+        "text": "How is everything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e323a21-faf7-4704-a3b0-f1d1b197af73",
+    "data": [
+      {
+        "text": "How is your day going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b592cf1a-0147-4ec8-8350-bccbea5bb3a4",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7720bb8f-d1f8-4fff-9439-7048de81c8cf",
+    "data": [
+      {
+        "text": "How is your evening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2159268a-f0d0-40e3-b259-668e515f55bb",
+    "data": [
+      {
+        "text": "How is your morning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "477989e7-ad23-4538-a347-2647d34a4df0",
+    "data": [
+      {
+        "text": "How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4a418f7-f947-425a-aeb3-e06ab2ecdd18",
+    "data": [
+      {
+        "text": "You ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "68a54ee3-8e36-4565-a2b4-4a203c759f62",
+  "name": "Command Prefix",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "command.prefix",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f361c9cb-d547-4f9c-b74a-0f3420dfcf81",
+          "dataType": "@command",
+          "name": "command",
+          "value": "$command",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e07fbebf-5b20-4d0f-a366-4071e0e0fc49",
+    "data": [
+      {
+        "text": "Boo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaedc41a-b968-4659-bf2b-be1a5ce13359",
+    "data": [
+      {
+        "text": "Rawr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c2de41d-6ffd-4f4c-ad4d-7b5fa8d41077",
+    "data": [
+      {
+        "text": "Trump",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b715ffc1-7270-4ccc-9ef5-38e75d2be90f",
+    "data": [
+      {
+        "text": "America",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "86f78817-7fea-4dfe-b471-3a258ea8ab25",
+  "name": "Author",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.author",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "While this project is being worked on by Jewgaboo, the original bot was created by Senither."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524152038,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "69c36de0-f7e9-474a-92e3-ca97cb21eea6",
+    "data": [
+      {
+        "text": "I\u0027m considering suicide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0b09a8f-4ce1-4470-afd2-0bbc34951d28",
+    "data": [
+      {
+        "text": "I\u0027m going to kill myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2acaf27-f5f7-4517-9d8e-2bd765d6be40",
+    "data": [
+      {
+        "text": "I\u0027m going to commit suicide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e690e61-b605-426e-a46d-1548cb761e4a",
+    "data": [
+      {
+        "text": "Suicide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

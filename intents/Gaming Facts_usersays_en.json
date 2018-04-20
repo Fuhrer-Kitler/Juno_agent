@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e408e354-f1fa-4828-a4dd-052338906671",
+    "data": [
+      {
+        "text": "give me a gaming fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04c4996a-cf58-4827-a250-1e1de34222fa",
+    "data": [
+      {
+        "text": "give a gaming fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc5607f7-359f-42ac-974b-4940bc0a184f",
+    "data": [
+      {
+        "text": "gaming fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

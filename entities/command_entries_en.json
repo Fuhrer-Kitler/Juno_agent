@@ -1,0 +1,43 @@
+[
+  {
+    "value": "music",
+    "synonyms": [
+      "music",
+      "song",
+      "songs"
+    ]
+  },
+  {
+    "value": "administration",
+    "synonyms": [
+      "administration",
+      "admin"
+    ]
+  },
+  {
+    "value": "help",
+    "synonyms": [
+      "help",
+      "helper"
+    ]
+  },
+  {
+    "value": "system",
+    "synonyms": [
+      "system"
+    ]
+  },
+  {
+    "value": "fun",
+    "synonyms": [
+      "fun",
+      "funny"
+    ]
+  },
+  {
+    "value": "utility",
+    "synonyms": [
+      "utility"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8b2240f4-16e3-4888-8b83-423b6466b4a9",
+    "data": [
+      {
+        "text": "What do you like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57f7a777-9d44-496f-9b93-164bcff0d783",
+    "data": [
+      {
+        "text": "Do you like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "685fa192-a285-468b-bc74-b1aaf80c22ad",
+    "data": [
+      {
+        "text": " what is your favorite color?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "977eea88-47a8-49fd-a91e-ac3b332e140b",
+    "data": [
+      {
+        "text": " color?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

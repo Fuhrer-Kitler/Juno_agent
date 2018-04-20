@@ -1,0 +1,35 @@
+{
+  "id": "fd17a529-8ead-426b-b4ba-924a16b72205",
+  "name": "I need help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.help",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7c302d20-3633-41e0-b0e4-aea21d590898",
+          "dataType": "@command",
+          "name": "command",
+          "value": "$command"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$command"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

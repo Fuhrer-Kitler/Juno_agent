@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fd574aae-d309-438b-b4b5-a32b89c237f5",
+    "data": [
+      {
+        "text": "How many are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f07d544f-4b6f-4a67-9c2a-d145c9a3e73f",
+    "data": [
+      {
+        "text": "How are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28be016c-b26a-4fea-81e1-fbf5b9314d0e",
+    "data": [
+      {
+        "text": "!player count? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddce27e5-da3e-43be-b27b-bd35573f41c9",
+    "data": [
+      {
+        "text": "How many people are online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

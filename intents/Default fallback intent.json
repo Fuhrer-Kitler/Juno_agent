@@ -1,0 +1,36 @@
+{
+  "id": "1aeb75b0-9f68-4b91-ad33-51b7d6acd1fe",
+  "name": "Default fallback intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I apologize, but I don\u0027t understand your request.",
+            "I\u0027m sorry my AI does not recognize that request.",
+            "My AI does not cover that topic yet. If you wish you can request it be added by DMing Jewgaboo",
+            "I don\u0027t understand.",
+            "Please try your request again.",
+            "I dont understand use `.help` to see a list of my commands."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521486861,
+  "fallbackIntent": true,
+  "events": []
+}

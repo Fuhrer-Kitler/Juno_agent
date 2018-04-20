@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cd726e93-c428-46b2-9268-a99f3f93e497",
+    "data": [
+      {
+        "text": "what is the prefix for ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "267748c3-2e45-49cf-be2a-399a8d113a8a",
+    "data": [
+      {
+        "text": "prefix for ",
+        "userDefined": false
+      },
+      {
+        "text": "utility",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90b24066-fec3-4924-ab69-d23818c556c9",
+    "data": [
+      {
+        "text": "prefix",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28776faa-7720-4cc7-a59f-dedbb92a4323",
+    "data": [
+      {
+        "text": "what is your prefixes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

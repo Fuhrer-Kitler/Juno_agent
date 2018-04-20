@@ -1,0 +1,35 @@
+{
+  "id": "ce5878fb-d9fb-4292-b2ca-9a603258f4d8",
+  "name": "Ava.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.name",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am Juno",
+            "Juno",
+            "From what I know my name is Juno",
+            "Oh sorry, I thought you knew. My name is Juno.",
+            "I go by Juno, but you can call me J dog ;)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521486561,
+  "fallbackIntent": false,
+  "events": []
+}
